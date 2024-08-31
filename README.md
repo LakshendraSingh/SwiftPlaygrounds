@@ -1,1 +1,1 @@
-Swift Playgrounds solutions
+Swift Playground Solutions
